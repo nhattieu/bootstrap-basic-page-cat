@@ -38,4 +38,26 @@ img.img-section-three {
 .img-footer {
     width: 100px;
     padding: 1rem;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+.icon-footer {
+    margin: auto;
+}
+
+.icon-footer i{
+    font-size: 3rem;
+    padding:10px;
+}
+
+.fa-facebook-square {
+    color: rgb(159, 241, 255);
+}
+
+.fa-google-plus-square {
+    color: rgb(230, 134, 134)
+}
+
+.fa-instagram-square {
+    color: rgb(255, 176, 251)
 }
