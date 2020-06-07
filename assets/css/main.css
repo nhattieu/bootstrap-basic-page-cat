@@ -1,0 +1,41 @@
+.jumbotron {
+    background: none;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+}
+
+.sectionLight {
+    background-color: rgba(240, 239, 239, 0.945);
+    padding: 1.5rem;
+}
+
+.sectionDark {
+    background-color:rgb(235, 235, 235);
+    padding: 1.5rem;
+}
+
+h5.modal-title {
+    margin: auto;
+    padding-left: 5rem;
+}
+
+img.img-section-three {
+    width: 250px;
+    height: 350px;
+    display: block;
+    margin: auto;
+}
+
+.btn-section-three {
+    width: 250px;
+    display: block;
+    margin: 10px auto 15px;
+}
+
+.img-footer {
+    width: 100px;
+    padding: 1rem;
+}
